@@ -28,7 +28,7 @@ msgid ""
 "MongoDB is an open-source document database that provides high "
 "performance, high availability, and automatic scaling."
 msgstr ""
-
+MongoDB是一个开源文档数据库，提供高性能，高可用性和自动扩展。
 # 4e14af6a94c8437b8557e3a7bd59d903
 #: ../source/introduction.txt:17
 msgid "Document Database"
